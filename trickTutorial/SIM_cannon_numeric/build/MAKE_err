@@ -1,0 +1,14 @@
+build/S_source.cpp: In member function ‘virtual int CannonSimObject::call_function(Trick::JobData*)’:
+build/S_source.cpp:1028:13: error: ‘cannon_slave_post’ was not declared in this scope
+ 1028 |             cannon_slave_post( &cannon ) ;
+      |             ^~~~~~~~~~~~~~~~~
+build/S_source.cpp:1031:13: error: ‘cannon_master_post’ was not declared in this scope
+ 1031 |             cannon_master_post( &cannon ) ;
+      |             ^~~~~~~~~~~~~~~~~~
+build/S_source.cpp: In member function ‘virtual int CannonSimObject::call_function(Trick::JobData*)’:
+build/S_source.cpp:1028:13: error: ‘cannon_slave_post’ was not declared in this scope
+ 1028 |             cannon_slave_post( &cannon ) ;
+      |             ^~~~~~~~~~~~~~~~~
+build/S_source.cpp:1031:13: error: ‘cannon_master_post’ was not declared in this scope
+ 1031 |             cannon_master_post( &cannon ) ;
+      |             ^~~~~~~~~~~~~~~~~~

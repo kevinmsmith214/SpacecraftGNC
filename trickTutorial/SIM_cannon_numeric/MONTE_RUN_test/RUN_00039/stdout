@@ -1,0 +1,26 @@
+|L   0|2025/04/04,14:11:21.788882|kevin-ThinkPad-X13-Yoga-Gen-1| |T 0|25.000000| [00m
+     REALTIME SHUTDOWN STATS:
+            ACTUAL INIT TIME:        1.103
+         ACTUAL ELAPSED TIME:        1.118
+[00m|L   0|2025/04/04,14:11:21.788953|kevin-ThinkPad-X13-Yoga-Gen-1| |T 0|25.000000| [00m
+SIMULATION TERMINATED IN
+  PROCESS: 0
+  ROUTINE: Executive_loop_single_thread.cpp:98
+  DIAGNOSTIC: Reached termination time
+
+              SIMULATION START TIME:        0.000
+               SIMULATION STOP TIME:       25.000
+            SIMULATION ELAPSED TIME:       25.000
+                 USER CPU TIME USED:        0.007
+               SYSTEM CPU TIME USED:        0.006
+              SIMULATION / CPU TIME:     1900.996
+       INITIALIZATION USER CPU TIME:       -0.004
+     INITIALIZATION SYSTEM CPU TIME:        0.003
+               SIMULATION RAM USAGE:       41.324MB
+      (External program RAM usage not included!)
+  VOLUNTARY CONTEXT SWITCHES (INIT):            5
+INVOLUNTARY CONTEXT SWITCHES (INIT):            0
+   VOLUNTARY CONTEXT SWITCHES (RUN):           25
+ INVOLUNTARY CONTEXT SWITCHES (RUN):            0
+
+[00m

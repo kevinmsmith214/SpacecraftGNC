@@ -1,0 +1,14 @@
+
+Monte Carlo complete: 25 runs (25 successful) (0 non-zero exit status) (0 errors) (0 out of range)
+
+Machine work unit breakdown:
+----------------------------------------------------------------------
+                  machine    units  (units %)  cpu_time (s)  cpu/unit (s)
+----------------------------------------------------------------------
+  1.  kevin-ThinkPad-X13-Yoga-Gen-1      25  (100.00%)          0.55          0.02
+
+Total monte carlo time taken: 0.78
+Actual average time per unit (sum of CPU time / number of runs): 0.02
+Effective average time per unit (total time / number of runs): 0.03
+Speedup (sum of CPU time / total time): 0.70
+Efficency (speedup / num slaves): 70.14%

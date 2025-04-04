@@ -1,0 +1,12 @@
+# This run can be executed in stand alone (non-Monte Carlo) mode by running
+# the S_main executable with this file specified as the input file.
+
+if (sys.version_info > (3, 0)):
+    exec(open("RUN_test/input.py").read())
+else:
+    execfile("RUN_test/input.py")
+
+trick.mc_set_enabled(0)
+dyn.cannon.init_angle = trick.attach_units("rad", 0.903537706599807)
+trick.set_output_dir("MONTE_RUN_test/RUN_00066")
+trick.mc_set_current_run(66)
